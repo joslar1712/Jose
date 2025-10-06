@@ -21,7 +21,7 @@ lista.extend([5,6])
 print(lista) #[1, 2, 3, 4, 5, 6]
 #insert(): Inserta en una posicion especifica
 lista.insert(2,10)
-print(lista) #1, 2, 10, 3, 4, 5, 6]
+print(lista) #[1, 2, 10, 3, 4, 5, 6]
 #remove(): Elimina la primera aparicion del elemento especificado
 lista.remove(3)
 print(lista) #[1, 2, 10, 4, 5, 6]
