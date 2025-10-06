@@ -9,4 +9,3 @@ if promedio >= 3:
 else:
     print("Haz reprobado.")
     
-    #Primer coemntario
