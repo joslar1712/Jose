@@ -1,0 +1,38 @@
+[
+    {
+        "nombres":"Laura",
+        "apellidos":"Gómez Ramirez",
+        "fecha_Nac":"1990-05-12",
+        "profesion":"Ingeniera Civil",
+        "estudios":{
+            "entidad":"UNAL",
+            "graduado":true,
+            "fecha_grad":"2013-06-24",
+            "programa":"Ingenieria Civil"
+        }
+    },
+    {
+        "nombres":"Andrés",
+        "apellidos":"Martínez López",
+        "fecha_Nac":"1985-10-04",
+        "profesion":"Ingeniera Sistemas",
+        "estudios":{
+            "entidad":"UNAL",
+            "graduado":true,
+            "fecha_grad":"2005-12-07",
+            "programa":"Ingeniero sistemas"
+        }
+    },
+    {
+        "nombres":"Camila",
+        "apellidos":"Torres Mejía",
+        "fecha_Nac":"1995-10-09",
+        "profesion":"Psicóloga",
+        "estudios":{
+            "entidad":"Universidad de los Andes",
+            "graduado":true,
+            "fecha_grad":"2018-12-10",
+            "programa":"Psicología"
+        }
+    }
+]
