@@ -22,5 +22,6 @@ mp.show()
 mp.scatter(ventas, gasto_publicitario, color="red")
 mp.title("Ventas por mes")
 mp.xlabel("Ventas")
-mp.ylabel("Gasto Publicitario")
+mp.ylabel
+("Gasto Publicitario")
 mp.show()

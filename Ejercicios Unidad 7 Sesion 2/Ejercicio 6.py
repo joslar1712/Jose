@@ -16,7 +16,7 @@ print(fibonacci)
 for i in fibonacci:
     if i == 0:
         print(f"Fibonacci de {i}: 0")
-    else if i==1: 
+    elif i==1: 
         print(f"Fibonacci de {i}: 1")
     else:
         print(f"Fibonacci de {i}: {(i-1)+(i-2)}")
